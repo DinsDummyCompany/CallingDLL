@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingDLL", "CallingDLL\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFuncs", "CommonFuncs\CommonFuncs.csproj", "{E6F1902B-F328-439C-BA19-E9989A265ED6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingDLLUI", "CallingDLLUI\CallingDLLUI.csproj", "{42DC12C3-26AC-4388-B5DC-2E8D39826F4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E6F1902B-F328-439C-BA19-E9989A265ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6F1902B-F328-439C-BA19-E9989A265ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6F1902B-F328-439C-BA19-E9989A265ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42DC12C3-26AC-4388-B5DC-2E8D39826F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DC12C3-26AC-4388-B5DC-2E8D39826F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DC12C3-26AC-4388-B5DC-2E8D39826F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DC12C3-26AC-4388-B5DC-2E8D39826F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
